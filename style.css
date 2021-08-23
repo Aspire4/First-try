@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#image1{
+    background-image:url("/image/image1.jpeg");
+    height: 500px;
+    width: 100%;
+}
+#image2{
+    background-image:url("/image/image2.jpeg");
+    height: 500px;
+    width: 100%;
+}
+#image3{
+    background-image:url("/image/image3.jpeg");
+    height: 500px;
+    width: 100%;
+}
+.image{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.7;
+}
+.text{
+    background-color: rgb(29, 25, 25);
+    width: 200px;
+    color: coral;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 43%;
+    font-size: 25px;
+    font-weight: bold;
+}
+h2 {
+      font-size: 25;
+      text-align: center;
+      letter-spacing: 3px;
+      line-height: 30px;
+}
+.para{
+    text-align: center;
+    background-color: rgb(205, 207, 212);
+    padding: 50px 300px;
+}
+.para1{
+    text-align:center;
+    background-color: rgb(205, 207, 212);
+    padding: 50px 300px;
+}
+
+
+
